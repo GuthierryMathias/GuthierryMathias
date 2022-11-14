@@ -1,5 +1,5 @@
-###  OLa !!! sou o Guthierry
-
+###  Ola !!! sou o Guthierry
+- 🧠 
 - 🌱 Estou aprendendo sobre HTML , CSS , Javascript ....
 - 😄 Pronouns: Ele/dele ...
 <div>
