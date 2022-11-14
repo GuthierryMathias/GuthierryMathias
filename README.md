@@ -1,5 +1,5 @@
 ###  Ola !!! sou o Guthierry
-- 🧠 
+- 🧠 Sou novo nessa áerea da tecnologia porem estou sempre procurando aprender mais 
 - 🌱 Estou aprendendo sobre HTML , CSS , Javascript ....
 - 😄 Pronouns: Ele/dele ...
 <div>
